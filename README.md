@@ -7,3 +7,5 @@
 
 
 # [Papers With Code - Browse State of the Art Papers](https://paperswithcode.com/sota)
+## Kaggle
++ [**Top Online Courses for AI and Data Science**](https://www.kaggle.com/general/69415)
