@@ -9,3 +9,10 @@
 # [Papers With Code - Browse State of the Art Papers](https://paperswithcode.com/sota)
 ## Kaggle
 + [**Top Online Courses for AI and Data Science**](https://www.kaggle.com/general/69415)
+
+
+## University of Washington Courses
++ [**Data Driven Science and Engineering**](http://databookuw.com/)
++ [**Data Driven Modelling and Scientific Computation**](https://faculty.washington.edu/kutz/KutzBook/KutzBook.html)
++ **[AMATH 568  - Advanced Differential Equations: Asymptotics & Perturbations](https://faculty.washington.edu/kutz/am568/am568.html)**
++ **[Beginning Scientific Computing](http://faculty.washington.edu/kutz/am301/am301.html)**
