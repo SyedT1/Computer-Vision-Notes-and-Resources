@@ -16,3 +16,6 @@
 + [**Data Driven Modelling and Scientific Computation**](https://faculty.washington.edu/kutz/KutzBook/KutzBook.html)
 + **[AMATH 568  - Advanced Differential Equations: Asymptotics & Perturbations](https://faculty.washington.edu/kutz/am568/am568.html)**
 + **[Beginning Scientific Computing](http://faculty.washington.edu/kutz/am301/am301.html)**
+
+
+## [Steve Bruton](https://www.youtube.com/c/Eigensteve/playlists)
